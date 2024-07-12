@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielS0usa&layout=compact)
 
-## Tecnologias que eu estudo 
+## Atualmente, tenho conhecimento e experiência nas seguintes tecnologias: 
 
 <div style="display: inline_block">
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
